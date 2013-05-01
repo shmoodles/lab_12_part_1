@@ -14,7 +14,7 @@ title:About
 
 ## Labs
 
-1. bla
+1. bla2
 2. blah2
 
 ![robot](http://www.capitolnerd.files.wordpress.com/2010/06/roberto2.jpg)
