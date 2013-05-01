@@ -3,6 +3,7 @@ title:About
 ---
 
 # About
+
 ## Topics
 
 *github pages
@@ -12,5 +13,6 @@ title:About
 *more noise from the ceiling
 
 ## Labs
+
 1. blah
 2. blah2
