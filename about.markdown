@@ -1,16 +1,16 @@
 ---
-title:About
+title: About
 ---
 
 # About
 
 ## Topics
 
-*[github pages](http://github pages)
-	*html
-	*markdown
-*__css__ frameworks
-*more noise from the ceiling
+* [github pages](http://github pages)
+	* html
+	* markdown
+* __css__ frameworks
+* more noise from the ceiling
 
 ## Labs
 
