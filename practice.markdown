@@ -8,8 +8,9 @@ title: Practice
 	* one
 	* two
 	* three
- ### __Bold__
- ### _Italicized_
+
+###__Bold__
+###_Italicized_
 
 ## Another Header
 
